@@ -10,3 +10,6 @@ git clone **github_file_name**
 * git push
 * git push origin
 * git push origin: 
+
+# Commande pour pull
+* git pull ou git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
