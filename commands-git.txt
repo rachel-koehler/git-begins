@@ -1,0 +1,12 @@
+# Cloner un repository
+git clone **github_file_name**
+
+## Etapes supplémentaires:
+* git add .
+* git commit -m "message"
+* git push origin main  *ou* git push origin master *ou* git push -u origin main/master  
+
+# Trois des commandes "push"
+* git push
+* git push origin
+* git push origin: 
