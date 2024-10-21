@@ -13,3 +13,8 @@ git clone **github_file_name**
 
 # Commande pour pull
 * git pull ou git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
+
+# Ajouter les commandes pour réaliser une branche et celle permettant de switcher de branche
+* git branch add-create-branch-command # pour réaliser une branche au nom de "add-create-branch-command" par exemple.
+* git branch # pour visualiser la branche récemment créee
+* git checkout # pour switcher de branche
