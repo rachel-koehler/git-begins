@@ -10,3 +10,7 @@ git clone **github_file_name**
 * git push
 * git push origin
 * git push origin: 
+
+# Commande qui permet de pull
+* git pull ou git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
+  --> Selon https://git-scm.com  cela permet de "récupère[r] et rejoue les modifications de la branche master distante, puisqu’elle a divergé du master local (c’est-à-dire E) jusqu’à son commit actuel (C) en plus de master et enregistre le résultat dans un nouveau commit avec les noms des deux commits parents et un message de journal de l’utilisateur décrivant les modifications."
